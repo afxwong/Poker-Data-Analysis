@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b6fe4476-ad7e-4821-89ed-2e4217b61c56" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/combos.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dEfoAYInfBKtTBMF5c7MH8vDVY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PokerStats" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\PycharmProjects\PokerStatsDataProcessing" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.datavisual">
+    <configuration name="counthands" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PokerStatsDataProcessing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\PycharmProjects\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/counthands.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="createsql" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PokerStatsDataProcessing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\PycharmProjects\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/createsql.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="csvtodb" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PokerStatsDataProcessing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\PycharmProjects\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/csvtodb.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dataintofiles" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PokerStatsDataProcessing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\PycharmProjects\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\PycharmProjects\PokerStatsDataProcessing\dataintofiles.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="datavisual" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PokerStatsDataProcessing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\PycharmProjects\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datavisual.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="getpercentages" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PokerStatsDataProcessing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\PycharmProjects\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/getpercentages.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testing" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PokerStatsDataProcessing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\PycharmProjects\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.counthands" />
+      <item itemvalue="Python.createsql" />
+      <item itemvalue="Python.csvtodb" />
+      <item itemvalue="Python.dataintofiles" />
+      <item itemvalue="Python.datavisual" />
+      <item itemvalue="Python.getpercentages" />
+      <item itemvalue="Python.testing" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6fe4476-ad7e-4821-89ed-2e4217b61c56" name="Default Changelist" comment="" />
+      <created>1591995345116</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591995345116</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/PycharmProjects/PokerStatsDataProcessing/.idea" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="310" y="116" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592433164406">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="310" y="116" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1707.920@0.0.1707.920" timestamp="1592433164406" />
+    <state x="593" y="263" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592021498723">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="593" y="263" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1707.920@0.0.1707.920" timestamp="1592021498723" />
+    <state x="585" y="208" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592022330159">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="585" y="208" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1707.920@0.0.1707.920" timestamp="1592022330159" />
+    <state x="635" y="216" key="FileChooserDialogImpl" timestamp="1592624313684">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="635" y="216" key="FileChooserDialogImpl/0.0.1707.920@0.0.1707.920" timestamp="1592624313684" />
+    <state x="693" y="359" key="Github.ShareDialog" timestamp="1592623907616">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="693" y="359" key="Github.ShareDialog/0.0.1707.920@0.0.1707.920" timestamp="1592623907616" />
+    <state width="1686" height="242" key="GridCell.Tab.0.bottom" timestamp="1592623606464">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1686" height="242" key="GridCell.Tab.0.bottom/0.0.1707.920@0.0.1707.920" timestamp="1592623606464" />
+    <state width="1686" height="242" key="GridCell.Tab.0.center" timestamp="1592623606462">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1686" height="242" key="GridCell.Tab.0.center/0.0.1707.920@0.0.1707.920" timestamp="1592623606462" />
+    <state width="1686" height="242" key="GridCell.Tab.0.left" timestamp="1592623606460">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1686" height="242" key="GridCell.Tab.0.left/0.0.1707.920@0.0.1707.920" timestamp="1592623606460" />
+    <state width="1686" height="242" key="GridCell.Tab.0.right" timestamp="1592623606463">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1686" height="242" key="GridCell.Tab.0.right/0.0.1707.920@0.0.1707.920" timestamp="1592623606463" />
+    <state x="364" y="106" key="SettingsEditor" timestamp="1592623660442">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="364" y="106" key="SettingsEditor/0.0.1707.920@0.0.1707.920" timestamp="1592623660442" />
+    <state x="94" y="94" width="1519" height="732" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1592624327938">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="94" y="94" width="1519" height="732" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1707.920@0.0.1707.920" timestamp="1592624327938" />
+    <state x="666" y="375" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592623700810">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="666" y="375" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1707.920@0.0.1707.920" timestamp="1592623700810" />
+    <state x="691" y="322" key="git4idea.rebase.GitRebaseDialog" timestamp="1592623721464">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="691" y="322" key="git4idea.rebase.GitRebaseDialog/0.0.1707.920@0.0.1707.920" timestamp="1592623721464" />
+  </component>
+</project>
